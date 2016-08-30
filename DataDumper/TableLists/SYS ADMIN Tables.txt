@@ -1,0 +1,19 @@
+tblApplicationDetail
+tblApplication
+App_ShowConn
+role
+module
+role2
+tbluser
+tblUserDivision
+--modAuthLevel 
+--moduleAuth Default Table
+company
+project
+division
+divProj
+litem
+audit
+ref
+TrnApprovalRemarks
+currencymaster
