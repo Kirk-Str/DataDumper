@@ -1,6 +1,6 @@
 # DataDumper
 
-* DataDumper is a tool to migrate SQL databases from primary database to secondary database with one click.
+* DataDumper is a simple tool to migrate MS-SQL databases from primary database to secondary database with one click.
 
 * It requires primary sql connection string, secondary sql connection string to Initiate the table listing.
   
